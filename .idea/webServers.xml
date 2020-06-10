@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca4bf7bc-a041-4994-98b7-c422322f598d" name="mamasgang.ru" url="https://mamasgang.ru">
+        <fileTransfer rootFolder="/home/s/semnatse/develop.mamasgang.ru/public_html" accessType="SFTP" host="92.53.96.20" port="22" sshConfigId="cca2328b-8577-4104-9aaa-ae2eeb010c99" sshConfig="semnatse@92.53.96.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

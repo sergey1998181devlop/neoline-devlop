@@ -1,0 +1,1 @@
+Соглашение об  <a href="/include/licenses_detail_licenser.php" target="_blank">условиях и правилах тестирования электросамокатов</a>
